@@ -1,4 +1,4 @@
-![Hi, I'm Fernando 👋 I'm a 🇧🇷 Brazilian developer 💻 🚀Majoring Computer Engineering🎓 I ❤️ technology and science](https://github.com/carneiro-fernando/carneiro-fernando/raw/main/assets/carneirofernando.gif)
+![Hi, I'm Fernando 👋 I'm a 🇧🇷 Brazilian developer 💻 🚀Majoring Computer Engineering🎓 I ❤️ technology and science](https://github.com/carneiro-fernando/carneiro-fernando/raw/main/assets/carneirofernando_wide.gif)
 
 <!--
 how to make this gif ?
