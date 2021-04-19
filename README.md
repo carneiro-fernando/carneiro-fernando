@@ -1,13 +1,13 @@
 <img src="https://github.com/carneiro-fernando/carneiro-fernando/raw/main/assets/carneirofernando_wideHD.gif">
 <h3 align="center">A passionate student of every tech 😍</h3>
 
-- 🔭 I’m currently working on [NLW#5](https://nextlevelweek.com)
+- 🔭 I’m currently working on:   [NLW#5](https://nextlevelweek.com)
 
-- 🌱 I’m currently learning **Swift, UIKit, NodeJS, Front-ENd**
+- 🌱 I’m currently learning:   **Swift, UIKit, NodeJS, Front-ENd**
 
-- 🤝 I’m looking for help with **How to Freelance**
+- 🤝 I’m looking for help with:   **How to Freelance**
 
-- 👨‍💻 All of my projects are available at [Here](Here)
+- 👨‍💻 All of my projects are available at:   **Here**
 
 - 📄 Know about my experiences [http://carneiro-fernando.github.io](http://carneiro-fernando.github.io)
 
