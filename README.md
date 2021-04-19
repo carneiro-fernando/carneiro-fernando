@@ -1,4 +1,11 @@
-### Hi there 👋
+![Hi, I'm Fernando 👋 I'm a 🇧🇷 Brazilian developer 💻 🚀Majoring Computer Engineering🎓 I ❤️ technology and science](https://github.com/carneiro-fernando/carneiro-fernando/raw/main/assets/carneirofernando_wide.gif)
+
+<!--
+how to make this gif ?
+
+I made my with https://codesandbox.io/s/github-profile-2ijk7
+Then i recorded my screen to gif on Mac with Quicktime and https://gist.github.com/tskaggs/6394639
+-->
 
 <!--
 **carneiro-fernando/carneiro-fernando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
