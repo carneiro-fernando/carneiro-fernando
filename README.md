@@ -1,11 +1,11 @@
 <img src="https://github.com/carneiro-fernando/carneiro-fernando/raw/main/assets/carneirofernando_wideHD.gif">
-<h3 align="center">A passionate student of every tech 😍</h3>
+<h3 align="center">A passionate student of Tech 😍</h3>
 
-- 🔭 I’m currently working on:   Management System to my City Hall
+- 🔭 I’m currently working on:  **Metaverse project**
 
-- 🌱 I’m currently learning:   **Swift, UIKit, NodeJS, Front-ENd**
+- 🌱 I’m currently learning:   **Unity, Machine Learning**
 
-- 🤝 I’m looking for help with:   **How to Freelance**
+- 🤝 I’m looking for help with:   **Freelance**
 
 - 👨‍💻 All of my projects are available at:   **Here**
 
