@@ -1,13 +1,13 @@
-<img src="https://github.com/carneiro-fernando/carneiro-fernando/raw/main/assets/carneirofernando_wideHD.gif">
+<img src="https://github.com/carneiro-fernando/carneiro-fernando/raw/main/assets/fernando-carneiro_GIF2023.gif"> 
 <h3 align="center">A passionate student of Tech 😍</h3>
 
-- 🔭 I’m currently working on:  **Metaverse project**
+- 🔭 I’m currently working on:  **My portfolio**
 
-- 🌱 I’m currently learning:   **Unity, Machine Learning**
+- 🌱 I’m currently learning:   **Data Analysis and Machine Learning**
 
-- 🤝 I’m looking for help with:   **Freelance**
+- 🤝 I’m looking for help with:   **Freelance in another country**
 
-- 👨‍💻 All of my projects are available at:   **Here**
+- 👨‍💻 All of my projects are available at:   **Here, soon!**
 
 - 📄 Know about my experiences [http://carneiro-fernando.github.io](http://carneiro-fernando.github.io)
 
@@ -26,7 +26,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carneiro-fernando&" alt="carneiro-fernando" /></p>
 
 <!--
-![Hi, I'm Fernando 👋 I'm a 🇧🇷 Brazilian developer 💻 🚀Majoring Computer Engineering🎓 I ❤️ technology and science]
+![Hi, I'm Fernando 👋 I'm a 🇧🇷 Brazilian 💻 Computer Engineering 🚀  I ❤️ technology and science]
 
 how to make this gif ?
 
