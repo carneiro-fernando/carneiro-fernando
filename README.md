@@ -1,5 +1,7 @@
 <img src="https://github.com/carneiro-fernando/carneiro-fernando/raw/main/assets/fernando-carneiro_GIF2023.gif"> 
-<h3 align="center">A passionate student of Tech 😍</h3>
+<h2>A passionate engineer 😍</h2>
+
+<h3 align="left">Know about me:</h3>
 
 - 🔭 I’m currently working on:  **My portfolio**
 
@@ -11,9 +13,9 @@
 
 - 📄 Know about my experiences [http://carneiro-fernando.github.io](http://carneiro-fernando.github.io)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me in my LinkedIn:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/fernando-carneiro-5942a982/" target="blank"><img align="center" src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/256/Linkedin-icon.png" alt="https://www.linkedin.com/in/fernando-carneiro-5942a982/" width="20" height="20"/></a>
+<a href="https://www.linkedin.com/in/fernando-carneiro-5942a982/" target="blank"><img align="center" src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/256/Linkedin-icon.png" alt="https://www.linkedin.com/in/fernando-carneiro-5942a982/" width="30" height="30"/></a>
 </p>
 
 <!-- <h3 align="left">Languages and Tools:</h3>
