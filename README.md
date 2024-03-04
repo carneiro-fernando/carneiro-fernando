@@ -3,15 +3,13 @@
 
 <h3 align="left">Know about me:</h3>
 
-- 🔭 I’m currently working on:  **My portfolio**
+- 🔭 I’m currently working on:  **Studying the book: "Mãos à obra: Aprendizado de Máquina com Scikit-Learn, Keras & Tensorflow"**
 
-- 🌱 I’m currently learning:   **Data Analysis and Machine Learning**
+- 🌱 I’m currently learning: **Data Science, Analysis, and Engineering, in that order! Also, definitely diving into Machine Learning a lot too.**
 
-- 🤝 I’m looking for help with:   **Freelance in another country**
+- 🤝 I’m looking for help with:   **Global level freelancer**
 
-- 👨‍💻 All of my projects are available at:   **Here, soon!**
-
-- 📄 Know about my experiences [http://carneiro-fernando.github.io](http://carneiro-fernando.github.io)
+- 👨‍💻 All about my experiences and my projects are available at: [**http://carneiro-fernando.github.io**](http://carneiro-fernando.github.io)
 
 <h3 align="left">Connect with me in my LinkedIn:</h3>
 <p align="left">
