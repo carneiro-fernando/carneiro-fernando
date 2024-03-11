@@ -18,6 +18,7 @@
 
 - 👨‍💻 All about my experiences and my projects are available at: [**http://carneiro-fernando.github.io**](http://carneiro-fernando.github.io)
 
+<br>
 <h3 align="left">Connect with me in my LinkedIn:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/fernando-carneiro-5942a982/" target="blank"><img align="center" src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/256/Linkedin-icon.png" alt="https://www.linkedin.com/in/fernando-carneiro-5942a982/" width="30" height="30"/></a>
