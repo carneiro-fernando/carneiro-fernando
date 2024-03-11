@@ -1,5 +1,12 @@
 <img src="https://github.com/carneiro-fernando/carneiro-fernando/raw/main/assets/fernando-carneiro_GIF2023.gif"> 
-<h2>A passionate engineer 😍</h2>
+
+<h2>A passionate engineer 😍</h2><br><br>
+
+<p align=center>
+    <a href="https://carneiro-fernando.github.io/">
+        <img src="https://img.shields.io/badge/Visite%20meu%20portfolio-4254f5?style=for-the-badge" alt="Portfolio">
+    </a>
+</p><br>
 
 <h3 align="left">Know about me:</h3>
 
