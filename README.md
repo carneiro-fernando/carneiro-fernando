@@ -16,7 +16,7 @@
 
 - 🤝 I’m looking for help with:   **Global level freelancer**
 
-- 👨‍💻 All about my experiences and my projects are available at: [**http://carneiro-fernando.github.io**](http://carneiro-fernando.github.io)
+- 👨‍💻 All about my experiences and my projects are available at my portfolio above 👆
 
 <br>
 <h3 align="left">Connect with me in my LinkedIn:</h3>
