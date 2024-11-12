@@ -1,6 +1,6 @@
 <img src="https://github.com/carneiro-fernando/carneiro-fernando/raw/main/assets/fernando-carneiro_GIF2023.gif"> 
 
-<h2>A passionate engineer 😍</h2><br><br>
+<h2>Computer engineer 👨🏻‍💻</h2><br><br>
 
 <p align=center>
     <a href="https://carneiro-fernando.github.io/">
