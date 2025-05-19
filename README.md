@@ -10,9 +10,9 @@
 
 <h3 align="left">Know about me:</h3>
 
-- 🔭 I’m currently working on:  **Studying the book: "Mãos à obra: Aprendizado de Máquina com Scikit-Learn, Keras & Tensorflow"**
+- 🔭 I’m currently working on:  **Freela on Workana and Upwork**
 
-- 🌱 I’m currently learning: **Data Science, Analysis, and Engineering, in that order! Also, definitely diving into Machine Learning a lot too.**
+- 🌱 I’m currently learning: **AI agents**
 
 - 🤝 I’m looking for help with:   **Global level freelancer**
 
